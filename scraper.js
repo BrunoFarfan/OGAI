@@ -52,6 +52,8 @@ const getMatchesStats = async (page, maxMatchID) => {
 
         await acceptCookies(page);
 
+        // const matchStats = 
+
         matchID++;
     }
 };
