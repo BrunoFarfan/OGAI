@@ -1,6 +1,5 @@
 const puppeteer = require('puppeteer');
-const fs = require('fs');
-const { match } = require('assert');
+const fs = require('fs').promises;
 
 
 const acceptCookies = async (page) => {
@@ -31,73 +30,113 @@ const loadPage = async (page, url) => {
     await acceptCookies(page);
 };
 
-const getMatchesStats = async (page, maxMatchID) => {
-    let matchID = 1;
-    const matches = [];
-    while (matchID <= maxMatchID) {
-        const matchUrl = `https://www.premierleague.com/match/${matchID}`;
-        await loadPage(page, matchUrl);
+const getAllMatchesIDs = async (page) => {
+    const allSeasons = await getClubSeasons(page, "https://www.premierleague.com/clubs/1/Arsenal/overview"); // Arsenal because it has been in the league since the beginning
 
-        const stats = await page.evaluate(async () => {
+    const allMatchesIDs = [];
+    for (let i = 0; i < allSeasons.length; i++) {
+        const seasonID = allSeasons[i].optionId;
+        
+        await loadPage(page, `https://www.premierleague.com/results?se=${seasonID}&co=1&cl=-1`);
+
+        const matches = await page.evaluate(async () => {
             window.scrollTo(0, document.body.scrollHeight);
-            
-            await new Promise(resolve => setTimeout(resolve, 3000)); // Wait for 3 seconds
 
-            // Get match result
-            const homeTeamName = document.querySelector("#mainContent > div > section.mcContent > div.centralContent > section > div.mc-summary__wrapper > div.mc-summary__scorebox-container > div.mc-summary__teams-container > div:nth-child(1) > div.mc-summary__team.home.t49 > a.mc-summary__badge-container").href.split("/")[5];
-            const awayTeamName = document.querySelector("#mainContent > div > section.mcContent > div.centralContent > section > div.mc-summary__wrapper > div.mc-summary__scorebox-container > div.mc-summary__teams-container > div:nth-child(3) > div.mc-summary__team.away.t6 > a.mc-summary__badge-container").href.split("/")[5];
-            const homeTeamGoals = document.querySelector("#mainContent > div > section.mcContent > div.centralContent > section > div.mc-summary__wrapper > div.mc-summary__scorebox-container > div.mc-summary__teams-container > div.mc-summary__score-container.complete > div.mc-summary__score.js-mc-score").innerText[0];
-            const awayTeamGoals = document.querySelector("#mainContent > div > section.mcContent > div.centralContent > section > div.mc-summary__wrapper > div.mc-summary__scorebox-container > div.mc-summary__teams-container > div.mc-summary__score-container.complete > div.mc-summary__score.js-mc-score").innerText[4];
+            await new Promise(resolve => setTimeout(resolve, 25000)); // Wait for all the matches to load
 
-            const matchResult = {
-                homeTeam: homeTeamName,
-                awayTeam: awayTeamName,
-                homeTeamGoals: homeTeamGoals,
-                awayTeamGoals: awayTeamGoals,
-            };
+            const matchesList = document.querySelectorAll("#mainContent > div.tabbedContent > div.wrapper.col-12.active > div:nth-child(3) > section > div:nth-child(1) > div.fixtures__matches-list > ul > li")
+            return Array.from(matchesList).map(match => match.getAttribute("data-comp-match-item"));
+        }); 
 
-            // Get match stats
-            const statsTab = document.querySelector("#mainContent > div > section.mcContent > div.centralContent > div > div.wrapper.col-12 > div > div > ul > li:nth-child(3)");
+        allMatchesIDs.push(...matches);
+    }
+    console.log(allMatchesIDs);
 
-            if (statsTab) {
-                statsTab.click(); // Click the stats tab
-            } else {
-                console.log("Stats tab not found");
-                return {matchResult: matchResult, stats: []};
-            }
+    return allMatchesIDs;
+};
 
-            const statsTable = document.querySelector("#mainContent > div > section.mcContent > div.centralContent > div > div.mcTabs > section.mcMainTab.head-to-head.active > div.mcTabs > div.mcStatsTab.statsSection.season-so-far.wrapper.col-12.active > table");
+const getAllMatchesStats = async (page) => {
+    let allMatchesIDs;
 
-            if (statsTable) {
-                const statsRows = statsTable.querySelectorAll("tbody > tr");
-
-                const statsArray = Array.from(statsRows).map(row => {
-                    const statName = row.querySelector("td:nth-child(2) > p").innerText;
-                    const homeStatValue = row.querySelector("td:nth-child(1) > p").innerText;
-                    const awayStatValue = row.querySelector("td:nth-child(3) > p").innerText;
-
-                    return {
-                        statName: statName,
-                        homeValue: homeStatValue,
-                        awayValue: awayStatValue,
-                    };
-                });
-
-                return {matchResult: matchResult, stats: statsArray};
-            } else {
-                console.log("Stats table not found");
-                return {matchResult: matchResult, stats: []};
-            }
-        });
-
-        console.log(stats);
-
-        matches.push(stats);
-
-        matchID++;
+    try {
+        // Attempt to read the IDs from 'outputs/matchesIDS.json'
+        const idsFromFile = await fs.readFile('outputs/matchesIDS.json', 'utf8');
+        allMatchesIDs = JSON.parse(idsFromFile);
+    } catch (error) {
+        // If the file does not exist or there's an error, fetch the IDs
+        allMatchesIDs = await getAllMatchesIDs(page);
+        // Write the fetched IDs back to 'outputs/matchesIDS.json'
+        await fs.writeFile('outputs/matchesIDS.json', JSON.stringify(allMatchesIDs, null, 2));
     }
 
-    return matches;
+    const allMatchesStats = [];
+    for (let i = 0; i < allMatchesIDs.length; i++) {
+        const matchID = allMatchesIDs[i];
+        const matchStats = await getMatchStats(page, matchID);
+        allMatchesStats.push(matchStats);
+    }
+
+    return allMatchesStats;
+};
+
+const getMatchStats = async (page, matchID) => {
+    const matchUrl = `https://www.premierleague.com/match/${matchID}`;
+    await loadPage(page, matchUrl);
+
+    const stats = await page.evaluate(async () => {
+        window.scrollTo(0, document.body.scrollHeight);
+        
+        await new Promise(resolve => setTimeout(resolve, 2500)); // Wait for 2.5 seconds
+
+        // Get match result
+        const teamNames = document.querySelectorAll("a.mc-summary__badge-container");
+        const homeTeamName = teamNames[0].href.split("/")[5];
+        const awayTeamName = teamNames[1].href.split("/")[5];
+        const homeTeamGoals = document.querySelector("div.mc-summary__score.js-mc-score").innerText[0];
+        const awayTeamGoals = document.querySelector("div.mc-summary__score.js-mc-score").innerText[4];
+
+        const matchResult = {
+            homeTeam: homeTeamName,
+            awayTeam: awayTeamName,
+            homeTeamGoals: homeTeamGoals,
+            awayTeamGoals: awayTeamGoals,
+        };
+
+        // Get match stats
+        const statsTab = document.querySelector("#mainContent > div > section.mcContent > div.centralContent > div > div.wrapper.col-12 > div > div > ul > li:nth-child(3)");
+
+        if (statsTab) {
+            statsTab.click(); // Click the stats tab
+        } else {
+            console.log("Stats tab not found");
+            return {matchResult: matchResult, matchStats: []};
+        }
+
+        await new Promise(resolve => setTimeout(resolve, 100)); // Wait for 100 milliseconds
+
+        const statsTable = document.querySelector("#mainContent > div > section.mcContent > div.centralContent > div > div.mcTabs > section.mcMainTab.head-to-head.active > div.mcTabs > div.mcStatsTab.statsSection.season-so-far.wrapper.col-12.active > table");
+
+        if (statsTable) {
+            const statsRows = statsTable.querySelectorAll("tbody > tr");
+
+            console.log("bitch nigga:", statsRows[0].querySelector("td:nth-child(2) > p").innerText);
+            
+            const statsArray = Array.from(statsRows).map(row => ({
+                statName: row.querySelector("td:nth-child(2) > p").innerText,
+                homeStatValue: row.querySelector("td:nth-child(1) > p").innerText,
+                awayStatValue: row.querySelector("td:nth-child(3) > p").innerText,
+            }));
+
+            return {matchResult: matchResult, matchStats: statsArray};
+        } else {
+            console.log("Stats table not found");
+            return {matchResult: matchResult, matchStats: []};
+        }
+    });
+
+    console.log(stats);
+
+    return stats;
 };
 
 const loadAllClubs = async (page) => {
@@ -209,20 +248,22 @@ const getSeasonalStats = async (page) => {
     const finalArray = [];
 
     for (let i = 0; i < clubs.length; i++) {
-        const statistics = await getClubSeasons(page, clubs[i]);
+        const seasons = await getClubSeasons(page, clubs[i]);
         const clubName = clubs[i].split("/")[5];
         const seasonsArray = [];
         
-        for (let j = 0; j < statistics.length; j++) {
-            const seasonID = statistics[j].optionId;
-            const seasonName = statistics[j].optionName;
+        for (let j = 0; j < seasons.length; j++) {
+            const seasonID = seasons[j].optionId;
+            const seasonName = seasons[j].optionName;
     
             const clubSeasonStats = await getClubSeasonalStats(page, clubs[i], seasonID);
             
             seasonsArray.push({
-                seasonID: seasonName,
+                seasonName: seasonName,
                 stats: clubSeasonStats,
             });
+            // Invert the order of the seasons
+            seasonsArray.reverse();
         }
 
         finalArray.push({
@@ -241,11 +282,12 @@ const main = async () => {
     
     page.on("console", msg => console.log("PAGE LOG:", msg.text())); // Log the console messages
 
-    const matchesStats = await getMatchesStats(page, 93700); // 93700 is the last game ID
+    const allMatchesStats = await getAllMatchesStats(page);
 
     // const seasonalDataArray = await getSeasonalStats(page);
-    // Convert the final array to JSON and write it to a file
-    fs.writeFileSync("outputs/seasonsOutput.json", JSON.stringify(seasonalDataArray, null, 2));
+    // Convert the data array to JSON and write it to a file
+    await fs.writeFile("outputs/matchesOutput.json", JSON.stringify(allMatchesStats, null, 2));
+    // await fs.writeFile("outputs/seasonsOutput.json", JSON.stringify(seasonalDataArray, null, 2));
 
     await browser.close();
 }
