@@ -140,10 +140,10 @@ const getAllMatchesStats = async (browser) => {
     try {
         // Attempt to read the stats from 'outputs/scrapedMatchesStats.json'
         const statsFromFile = await fs.readFile('outputs/scrapedMatchesStats.json', 'utf8');
-        const scrapedMatchesStats = JSON.parse(statsFromFile);
+        scrapedMatchesStats = JSON.parse(statsFromFile);
     } catch (error) {
         // If the file does not exist, initialize it as an empty array
-        const scrapedMatchesStats = [];
+        scrapedMatchesStats = [];
         await fs.writeFile('outputs/scrapedMatchesStats.json', JSON.stringify(scrapedMatchesStats, null, 2));
     }
 
