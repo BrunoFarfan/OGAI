@@ -371,12 +371,11 @@ const main = async () => {
 
     page.on("console", msg => console.log("PAGE LOG:", msg.text())); // Log the console messages
 
-    const allMatchesStats = await getAllMatchesStats(browser);
+    await getAllMatchesStats(browser);
 
-    // const seasonalDataArray = await getSeasonalStats(page);
+    const seasonalDataArray = await getSeasonalStats(page);
     // Convert the data array to JSON and write it to a file
-    await fs.writeFile("outputs/matchesOutput.json", JSON.stringify(allMatchesStats, null, 2));
-    // await fs.writeFile("outputs/seasonsOutput.json", JSON.stringify(seasonalDataArray, null, 2));
+    await fs.writeFile("outputs/seasonsOutput.json", JSON.stringify(seasonalDataArray, null, 2));
 
     await browser.close();
 }
