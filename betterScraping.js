@@ -329,39 +329,55 @@ const getClubSeasonalStats = async (page, clubUrl, seasonID) => {
     return stats;
 };
 
-const getSeasonalStats = async (page) => {
+const getSeasonalStats = async (browser) => {
+    const page = await browser.newPage();
+    await page.setViewport({ width: 1920, height: 1080 });
     await loadPage(page, 'https://www.premierleague.com/clubs');
 
     const clubs = await loadAllClubs(page);
+    await page.close();
 
-    const finalArray = [];
+    const chunks = chunkArray(clubs, Math.ceil(clubs.length / MAX_CONCURRENT_TABS));
 
-    for (let i = 0; i < clubs.length; i++) {
-        const seasons = await getClubSeasons(page, clubs[i]);
-        const clubName = clubs[i].split("/")[5];
-        const seasonsArray = [];
+    const processChunkInTab = async (chunk) => {
+        const tabPage = await browser.newPage();
+        await tabPage.setViewport({ width: 1920, height: 1080 });
+        const finalArray = [];
 
-        for (let j = 0; j < seasons.length; j++) {
-            const seasonID = seasons[j].optionId;
-            const seasonName = seasons[j].optionName;
+        for (let i = 0; i < chunk.length; i++) {
+            const seasons = await getClubSeasons(tabPage, chunk[i]);
+            const clubName = chunk[i].split("/")[5];
+            const seasonsArray = [];
 
-            const clubSeasonStats = await getClubSeasonalStats(page, clubs[i], seasonID);
+            for (let j = 0; j < seasons.length; j++) {
+                const seasonID = seasons[j].optionId;
+                const seasonName = seasons[j].optionName;
 
-            seasonsArray.push({
-                seasonName: seasonName,
-                stats: clubSeasonStats,
+                const clubSeasonStats = await getClubSeasonalStats(tabPage, chunk[i], seasonID);
+
+                seasonsArray.push({
+                    seasonName: seasonName,
+                    stats: clubSeasonStats,
+                });
+                // Invert the order of the seasons
+                seasonsArray.reverse();
+            }
+
+            finalArray.push({
+                clubName: clubName,
+                seasons: seasonsArray,
             });
-            // Invert the order of the seasons
-            seasonsArray.reverse();
         }
 
-        finalArray.push({
-            clubName: clubName,
-            seasons: seasonsArray,
-        });
+        await tabPage.close();
+        return finalArray;
     };
 
-    return finalArray;
+    const allSeasonalStatsChunks = await Promise.all(chunks.map(chunk => processChunkInTab(chunk)));
+
+    const seasonalDataArray = allSeasonalStatsChunks.flat();
+
+    return seasonalDataArray;
 };
 
 const main = async () => {
@@ -373,7 +389,7 @@ const main = async () => {
 
     await getAllMatchesStats(browser);
 
-    const seasonalDataArray = await getSeasonalStats(page);
+    // const seasonalDataArray = await getSeasonalStats(page);
     // Convert the data array to JSON and write it to a file
     await fs.writeFile("outputs/seasonsOutput.json", JSON.stringify(seasonalDataArray, null, 2));
 
