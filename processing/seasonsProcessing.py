@@ -24,7 +24,7 @@ rows = []
 for clubData in data:
     club_name = clubData['clubName']
     for season in clubData['seasons']:
-        season_id = season['seasonID']
+        season_id = season['seasonName']
         stats = season['stats']
         
         row = {

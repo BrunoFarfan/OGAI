@@ -3,7 +3,7 @@
     "clubName": "Arsenal",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -153,7 +153,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -303,7 +303,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "26",
@@ -453,7 +453,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "22",
@@ -603,7 +603,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -753,7 +753,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -903,7 +903,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -1053,7 +1053,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -1203,7 +1203,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -1353,7 +1353,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -1503,7 +1503,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "22",
@@ -1653,7 +1653,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -1803,7 +1803,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -1953,7 +1953,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -2103,7 +2103,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -2253,7 +2253,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -2403,7 +2403,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -2553,7 +2553,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -2703,7 +2703,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -2853,7 +2853,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -3003,7 +3003,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -3153,7 +3153,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "26",
@@ -3303,7 +3303,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -3453,7 +3453,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "26",
@@ -3603,7 +3603,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -3753,7 +3753,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "22",
@@ -3903,7 +3903,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "22",
@@ -4053,7 +4053,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -4203,7 +4203,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -4353,7 +4353,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -4503,7 +4503,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "13",
@@ -4653,7 +4653,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "18",
@@ -4803,7 +4803,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "15",
@@ -4958,7 +4958,7 @@
     "clubName": "Aston-Villa",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -5108,7 +5108,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -5258,7 +5258,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -5408,7 +5408,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -5558,7 +5558,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -5708,7 +5708,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "39",
           "matchesWon": "9",
@@ -5858,7 +5858,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "3",
@@ -6008,7 +6008,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -6158,7 +6158,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -6308,7 +6308,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -6458,7 +6458,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -6608,7 +6608,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -6758,7 +6758,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -6908,7 +6908,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -7058,7 +7058,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -7208,7 +7208,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -7358,7 +7358,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -7508,7 +7508,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -7658,7 +7658,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -7808,7 +7808,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -7958,7 +7958,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -8108,7 +8108,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -8258,7 +8258,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -8408,7 +8408,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -8558,7 +8558,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -8708,7 +8708,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -8858,7 +8858,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -9008,7 +9008,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "11",
@@ -9158,7 +9158,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "15",
@@ -9308,7 +9308,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "21",
@@ -9463,7 +9463,7 @@
     "clubName": "Barnsley",
     "seasons": [
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -9618,7 +9618,7 @@
     "clubName": "Birmingham-City",
     "seasons": [
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -9768,7 +9768,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -9918,7 +9918,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -10068,7 +10068,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -10218,7 +10218,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -10368,7 +10368,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -10518,7 +10518,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -10673,7 +10673,7 @@
     "clubName": "Blackburn-Rovers",
     "seasons": [
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -10823,7 +10823,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -10973,7 +10973,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -11123,7 +11123,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -11273,7 +11273,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -11423,7 +11423,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -11573,7 +11573,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -11723,7 +11723,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -11873,7 +11873,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -12023,7 +12023,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -12173,7 +12173,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -12323,7 +12323,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -12473,7 +12473,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -12623,7 +12623,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -12773,7 +12773,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -12923,7 +12923,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "27",
@@ -13073,7 +13073,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "25",
@@ -13223,7 +13223,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "20",
@@ -13378,7 +13378,7 @@
     "clubName": "Blackpool",
     "seasons": [
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -13533,7 +13533,7 @@
     "clubName": "Bolton-Wanderers",
     "seasons": [
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -13683,7 +13683,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -13833,7 +13833,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -13983,7 +13983,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -14133,7 +14133,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -14283,7 +14283,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -14433,7 +14433,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -14583,7 +14583,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -14733,7 +14733,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -14883,7 +14883,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -15033,7 +15033,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -15183,7 +15183,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -15333,7 +15333,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -15488,7 +15488,7 @@
     "clubName": "Bournemouth",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -15638,7 +15638,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -15788,7 +15788,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "37",
           "matchesWon": "11",
@@ -15938,7 +15938,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -16088,7 +16088,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -16238,7 +16238,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -16388,7 +16388,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -16538,7 +16538,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -16693,7 +16693,7 @@
     "clubName": "Bradford-City",
     "seasons": [
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "5",
@@ -16843,7 +16843,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -16998,7 +16998,7 @@
     "clubName": "Brentford",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -17148,7 +17148,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -17298,7 +17298,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -17448,7 +17448,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -17603,7 +17603,7 @@
     "clubName": "Brighton-and-Hove-Albion",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -17753,7 +17753,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -17903,7 +17903,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -18053,7 +18053,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -18203,7 +18203,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -18353,7 +18353,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -18503,7 +18503,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -18653,7 +18653,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -18808,7 +18808,7 @@
     "clubName": "Burnley",
     "seasons": [
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "538",
           "matchesWon": "177",
@@ -18958,7 +18958,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "538",
           "matchesWon": "177",
@@ -19108,7 +19108,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "538",
           "matchesWon": "177",
@@ -19258,7 +19258,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "538",
           "matchesWon": "177",
@@ -19408,7 +19408,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "538",
           "matchesWon": "177",
@@ -19558,7 +19558,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -19708,7 +19708,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -19858,7 +19858,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -20008,7 +20008,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -20163,7 +20163,7 @@
     "clubName": "Cardiff-City",
     "seasons": [
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -20313,7 +20313,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -20468,7 +20468,7 @@
     "clubName": "Charlton-Athletic",
     "seasons": [
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -20618,7 +20618,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -20768,7 +20768,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -20918,7 +20918,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -21068,7 +21068,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -21218,7 +21218,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -21368,7 +21368,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -21518,7 +21518,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -21673,7 +21673,7 @@
     "clubName": "Chelsea",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -21823,7 +21823,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "1,538",
           "matchesWon": "848",
@@ -21973,7 +21973,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -22123,7 +22123,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -22273,7 +22273,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "1,538",
           "matchesWon": "848",
@@ -22423,7 +22423,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -22573,7 +22573,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -22723,7 +22723,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -22873,7 +22873,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "30",
@@ -23023,7 +23023,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -23173,7 +23173,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "26",
@@ -23323,7 +23323,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -23473,7 +23473,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "22",
@@ -23623,7 +23623,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -23773,7 +23773,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -23923,7 +23923,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "27",
@@ -24073,7 +24073,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -24223,7 +24223,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -24373,7 +24373,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -24523,7 +24523,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "29",
@@ -24673,7 +24673,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "29",
@@ -24823,7 +24823,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -24973,7 +24973,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -25123,7 +25123,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -25273,7 +25273,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -25423,7 +25423,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -25573,7 +25573,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -25723,7 +25723,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -25873,7 +25873,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -26023,7 +26023,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -26173,7 +26173,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "13",
@@ -26323,7 +26323,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "13",
@@ -26473,7 +26473,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "14",
@@ -26628,7 +26628,7 @@
     "clubName": "Coventry-City",
     "seasons": [
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -26778,7 +26778,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -26928,7 +26928,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -27078,7 +27078,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -27228,7 +27228,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -27378,7 +27378,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -27528,7 +27528,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "12",
@@ -27678,7 +27678,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "656",
           "matchesWon": "208",
@@ -27828,7 +27828,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "13",
@@ -27983,7 +27983,7 @@
     "clubName": "Crystal-Palace",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -28133,7 +28133,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -28283,7 +28283,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -28433,7 +28433,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -28583,7 +28583,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -28733,7 +28733,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -28883,7 +28883,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -29033,7 +29033,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -29183,7 +29183,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -29333,7 +29333,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -29483,7 +29483,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -29633,7 +29633,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -29783,7 +29783,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "756",
           "matchesWon": "246",
@@ -29933,7 +29933,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -30083,7 +30083,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "11",
@@ -30233,7 +30233,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "11",
@@ -31443,7 +31443,7 @@
     "clubName": "Everton",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -31593,7 +31593,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -31743,7 +31743,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -31893,7 +31893,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -32043,7 +32043,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -32193,7 +32193,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -32343,7 +32343,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "1,329",
           "matchesWon": "496",
@@ -32493,7 +32493,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -32643,7 +32643,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -32793,7 +32793,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -32943,7 +32943,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -33093,7 +33093,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -33243,7 +33243,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -33393,7 +33393,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -33543,7 +33543,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -33693,7 +33693,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -33843,7 +33843,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -33993,7 +33993,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -34143,7 +34143,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -34293,7 +34293,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -34443,7 +34443,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -34593,7 +34593,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -34743,7 +34743,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -34893,7 +34893,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -35043,7 +35043,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -35193,7 +35193,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -35343,7 +35343,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -35493,7 +35493,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -35643,7 +35643,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -35793,7 +35793,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -35943,7 +35943,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "11",
@@ -36093,7 +36093,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "12",
@@ -36243,7 +36243,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "15",
@@ -36398,7 +36398,7 @@
     "clubName": "Fulham",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -36548,7 +36548,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -36698,7 +36698,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -36848,7 +36848,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "5",
@@ -36998,7 +36998,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -37148,7 +37148,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -37298,7 +37298,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -37448,7 +37448,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -37598,7 +37598,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -37748,7 +37748,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -37898,7 +37898,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -38048,7 +38048,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -38198,7 +38198,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -38348,7 +38348,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -38498,7 +38498,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -38648,7 +38648,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -38798,7 +38798,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -38948,7 +38948,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -39103,7 +39103,7 @@
     "clubName": "Huddersfield-Town",
     "seasons": [
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "3",
@@ -39253,7 +39253,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -39408,7 +39408,7 @@
     "clubName": "Hull-City",
     "seasons": [
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -39558,7 +39558,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -39708,7 +39708,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -39858,7 +39858,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -40008,7 +40008,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -40163,7 +40163,7 @@
     "clubName": "Ipswich-Town",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -40313,7 +40313,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -40463,7 +40463,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "559",
           "matchesWon": "203",
@@ -40613,7 +40613,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "559",
           "matchesWon": "203",
@@ -40763,7 +40763,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "559",
           "matchesWon": "203",
@@ -40913,7 +40913,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "559",
           "matchesWon": "203",
@@ -41068,7 +41068,7 @@
     "clubName": "Leeds-United",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -41218,7 +41218,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -41368,7 +41368,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -41518,7 +41518,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -41668,7 +41668,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -41818,7 +41818,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -41968,7 +41968,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -42118,7 +42118,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -42268,7 +42268,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -42418,7 +42418,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -42568,7 +42568,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -42718,7 +42718,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -42868,7 +42868,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -43018,7 +43018,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -43168,7 +43168,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -43318,7 +43318,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -43468,7 +43468,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -43618,7 +43618,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -43768,7 +43768,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -43918,7 +43918,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -44068,7 +44068,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -44218,7 +44218,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -44368,7 +44368,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -44518,7 +44518,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -44668,7 +44668,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -44818,7 +44818,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "812",
           "matchesWon": "325",
@@ -44968,7 +44968,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -45118,7 +45118,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -45268,7 +45268,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -45418,7 +45418,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -45568,7 +45568,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "20",
@@ -45718,7 +45718,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "18",
@@ -45868,7 +45868,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "12",
@@ -46023,7 +46023,7 @@
     "clubName": "Leicester-City",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -46173,7 +46173,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -46323,7 +46323,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -46473,7 +46473,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -46623,7 +46623,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -46773,7 +46773,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -46923,7 +46923,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -47073,7 +47073,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -47223,7 +47223,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -47373,7 +47373,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -47523,7 +47523,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -47673,7 +47673,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "5",
@@ -47823,7 +47823,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -47973,7 +47973,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -48123,7 +48123,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -48273,7 +48273,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -48423,7 +48423,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -48573,7 +48573,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "6",
@@ -48728,7 +48728,7 @@
     "clubName": "Liverpool",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -48878,7 +48878,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -49028,7 +49028,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -49178,7 +49178,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -49328,7 +49328,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -49478,7 +49478,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "1,481",
           "matchesWon": "810",
@@ -49628,7 +49628,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "1,481",
           "matchesWon": "810",
@@ -49778,7 +49778,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "1,481",
           "matchesWon": "810",
@@ -49928,7 +49928,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "1,481",
           "matchesWon": "810",
@@ -50078,7 +50078,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "1,481",
           "matchesWon": "810",
@@ -50228,7 +50228,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -50378,7 +50378,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "26",
@@ -50528,7 +50528,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -50678,7 +50678,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -50828,7 +50828,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -50978,7 +50978,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -51128,7 +51128,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -51278,7 +51278,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -51428,7 +51428,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -51578,7 +51578,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -51728,7 +51728,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -51878,7 +51878,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -52028,7 +52028,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -52178,7 +52178,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -52328,7 +52328,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -52478,7 +52478,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -52628,7 +52628,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -52778,7 +52778,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -52928,7 +52928,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -53078,7 +53078,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -53228,7 +53228,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "21",
@@ -53378,7 +53378,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "17",
@@ -53528,7 +53528,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "16",
@@ -53683,7 +53683,7 @@
     "clubName": "Luton-Town",
     "seasons": [
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -53838,7 +53838,7 @@
     "clubName": "Manchester-City",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -53988,7 +53988,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -54138,7 +54138,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -54288,7 +54288,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "29",
@@ -54438,7 +54438,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "27",
@@ -54588,7 +54588,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "26",
@@ -54738,7 +54738,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "32",
@@ -54888,7 +54888,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "32",
@@ -55038,7 +55038,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -55188,7 +55188,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -55338,7 +55338,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -55488,7 +55488,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "27",
@@ -55638,7 +55638,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -55788,7 +55788,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -55938,7 +55938,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -56088,7 +56088,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -56238,7 +56238,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "1,313",
           "matchesWon": "713",
@@ -56388,7 +56388,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "1,313",
           "matchesWon": "713",
@@ -56538,7 +56538,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "1,313",
           "matchesWon": "713",
@@ -56688,7 +56688,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "1,313",
           "matchesWon": "713",
@@ -56838,7 +56838,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -56988,7 +56988,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -57138,7 +57138,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -57288,7 +57288,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -57438,7 +57438,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -57588,7 +57588,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "12",
@@ -57738,7 +57738,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "9",
@@ -57888,7 +57888,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "15",
@@ -58043,7 +58043,7 @@
     "clubName": "Manchester-United",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -58193,7 +58193,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -58343,7 +58343,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -58493,7 +58493,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -58643,7 +58643,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -58793,7 +58793,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -58943,7 +58943,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "39",
           "matchesWon": "19",
@@ -59093,7 +59093,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -59243,7 +59243,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -59393,7 +59393,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -59543,7 +59543,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -59693,7 +59693,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -59843,7 +59843,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -59993,7 +59993,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -60143,7 +60143,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -60293,7 +60293,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "27",
@@ -60443,7 +60443,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -60593,7 +60593,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "27",
@@ -60743,7 +60743,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -60893,7 +60893,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -61043,7 +61043,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "22",
@@ -61193,7 +61193,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -61343,7 +61343,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -61493,7 +61493,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -61643,7 +61643,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -61793,7 +61793,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "28",
@@ -61943,7 +61943,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "22",
@@ -62093,7 +62093,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -62243,7 +62243,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -62393,7 +62393,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "25",
@@ -62543,7 +62543,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "26",
@@ -62693,7 +62693,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "27",
@@ -62843,7 +62843,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "24",
@@ -62998,7 +62998,7 @@
     "clubName": "Middlesbrough",
     "seasons": [
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "5",
@@ -63148,7 +63148,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -63298,7 +63298,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -63448,7 +63448,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -63598,7 +63598,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -63748,7 +63748,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -63898,7 +63898,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -64048,7 +64048,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -64198,7 +64198,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -64348,7 +64348,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -64498,7 +64498,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -64648,7 +64648,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -64798,7 +64798,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -64948,7 +64948,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -65098,7 +65098,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "11",
@@ -65253,7 +65253,7 @@
     "clubName": "Newcastle-United",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -65403,7 +65403,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -65553,7 +65553,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -65703,7 +65703,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -65853,7 +65853,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -66003,7 +66003,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -66153,7 +66153,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -66303,7 +66303,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -66453,7 +66453,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -66603,7 +66603,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -66753,7 +66753,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -66903,7 +66903,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -67053,7 +67053,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -67203,7 +67203,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -67353,7 +67353,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -67503,7 +67503,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -67653,7 +67653,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -67803,7 +67803,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -67953,7 +67953,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -68103,7 +68103,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -68253,7 +68253,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -68403,7 +68403,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -68553,7 +68553,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -68703,7 +68703,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -68853,7 +68853,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -69003,7 +69003,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -69153,7 +69153,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -69303,7 +69303,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "24",
@@ -69453,7 +69453,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "20",
@@ -69603,7 +69603,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "23",
@@ -69758,7 +69758,7 @@
     "clubName": "Norwich-City",
     "seasons": [
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "5",
@@ -69908,7 +69908,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "5",
@@ -70058,7 +70058,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -70208,7 +70208,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -70358,7 +70358,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -70508,7 +70508,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -70658,7 +70658,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -70808,7 +70808,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "10",
@@ -70958,7 +70958,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "12",
@@ -71108,7 +71108,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "21",
@@ -71263,7 +71263,7 @@
     "clubName": "Nottingham-Forest",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -71413,7 +71413,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -71563,7 +71563,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "37",
           "matchesWon": "9",
@@ -71713,7 +71713,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -71863,7 +71863,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -72013,7 +72013,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -72163,7 +72163,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "22",
@@ -72313,7 +72313,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "10",
@@ -72468,7 +72468,7 @@
     "clubName": "Oldham-Athletic",
     "seasons": [
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "9",
@@ -72618,7 +72618,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "13",
@@ -72773,7 +72773,7 @@
     "clubName": "Portsmouth",
     "seasons": [
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -72923,7 +72923,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -73073,7 +73073,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -73223,7 +73223,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -73373,7 +73373,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -73523,7 +73523,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -73673,7 +73673,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -73828,7 +73828,7 @@
     "clubName": "Queens-Park-Rangers",
     "seasons": [
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -73978,7 +73978,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "543",
           "matchesWon": "180",
@@ -74128,7 +74128,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "543",
           "matchesWon": "180",
@@ -74278,7 +74278,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "543",
           "matchesWon": "180",
@@ -74428,7 +74428,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "543",
           "matchesWon": "180",
@@ -74578,7 +74578,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "543",
           "matchesWon": "180",
@@ -74728,7 +74728,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "543",
           "matchesWon": "180",
@@ -77448,7 +77448,7 @@
     "clubName": "Southampton",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -77598,7 +77598,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -77748,7 +77748,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -77898,7 +77898,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -78048,7 +78048,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -78198,7 +78198,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -78348,7 +78348,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -78498,7 +78498,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -78648,7 +78648,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -78798,7 +78798,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -78948,7 +78948,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -79098,7 +79098,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -79248,7 +79248,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -79398,7 +79398,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -79548,7 +79548,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -79698,7 +79698,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -79848,7 +79848,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -79998,7 +79998,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -80148,7 +80148,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "1,081",
           "matchesWon": "368",
@@ -80298,7 +80298,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -80448,7 +80448,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -80598,7 +80598,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -80748,7 +80748,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "12",
@@ -80898,7 +80898,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "12",
@@ -81048,7 +81048,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "13",
@@ -81203,7 +81203,7 @@
     "clubName": "Stoke-City",
     "seasons": [
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "655",
           "matchesWon": "221",
@@ -81353,7 +81353,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -81503,7 +81503,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -81653,7 +81653,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -81803,7 +81803,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -81953,7 +81953,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -82103,7 +82103,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -82253,7 +82253,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -82403,7 +82403,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -82553,7 +82553,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -82708,7 +82708,7 @@
     "clubName": "Sunderland",
     "seasons": [
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -82858,7 +82858,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -83008,7 +83008,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -83158,7 +83158,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -83308,7 +83308,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -83458,7 +83458,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -83608,7 +83608,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -83758,7 +83758,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -83908,7 +83908,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -84058,7 +84058,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -84208,7 +84208,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "3",
@@ -84358,7 +84358,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "4",
@@ -84508,7 +84508,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -84658,7 +84658,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -84808,7 +84808,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -84958,7 +84958,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -85113,7 +85113,7 @@
     "clubName": "Swansea-City",
     "seasons": [
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -85263,7 +85263,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -85413,7 +85413,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -85563,7 +85563,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -85713,7 +85713,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -85863,7 +85863,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -86013,7 +86013,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -86168,7 +86168,7 @@
     "clubName": "Swindon-Town",
     "seasons": [
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "5",
@@ -86323,7 +86323,7 @@
     "clubName": "Tottenham-Hotspur",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -86473,7 +86473,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -86623,7 +86623,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -86773,7 +86773,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "22",
@@ -86923,7 +86923,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -87073,7 +87073,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -87223,7 +87223,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -87373,7 +87373,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "23",
@@ -87523,7 +87523,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "26",
@@ -87673,7 +87673,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -87823,7 +87823,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -87973,7 +87973,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -88123,7 +88123,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -88273,7 +88273,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "20",
@@ -88423,7 +88423,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -88573,7 +88573,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "21",
@@ -88723,7 +88723,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -88873,7 +88873,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -89023,7 +89023,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "17",
@@ -89173,7 +89173,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "18",
@@ -89323,7 +89323,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -89473,7 +89473,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -89623,7 +89623,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -89773,7 +89773,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -89923,7 +89923,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -90073,7 +90073,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -90223,7 +90223,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -90373,7 +90373,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -90523,7 +90523,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -90673,7 +90673,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -90823,7 +90823,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "16",
@@ -90973,7 +90973,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "11",
@@ -91123,7 +91123,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "16",
@@ -91278,7 +91278,7 @@
     "clubName": "Watford",
     "seasons": [
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -91428,7 +91428,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "39",
           "matchesWon": "8",
@@ -91578,7 +91578,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -91728,7 +91728,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -91878,7 +91878,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -92028,7 +92028,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -92178,7 +92178,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "5",
@@ -92328,7 +92328,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -92483,7 +92483,7 @@
     "clubName": "West-Bromwich-Albion",
     "seasons": [
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "5",
@@ -92633,7 +92633,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -92783,7 +92783,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -92933,7 +92933,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -93083,7 +93083,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -93233,7 +93233,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -93383,7 +93383,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -93533,7 +93533,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -93683,7 +93683,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -93833,7 +93833,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -93983,7 +93983,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -94133,7 +94133,7 @@
         }
       },
       {
-        "seasonID": "2004/05",
+        "seasonName": "2004/05",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -94283,7 +94283,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "6",
@@ -94438,7 +94438,7 @@
     "clubName": "West-Ham-United",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -94588,7 +94588,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -94738,7 +94738,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -94888,7 +94888,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -95038,7 +95038,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "19",
@@ -95188,7 +95188,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -95338,7 +95338,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -95488,7 +95488,7 @@
         }
       },
       {
-        "seasonID": "2017/18",
+        "seasonName": "2017/18",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -95638,7 +95638,7 @@
         }
       },
       {
-        "seasonID": "2016/17",
+        "seasonName": "2016/17",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -95788,7 +95788,7 @@
         }
       },
       {
-        "seasonID": "2015/16",
+        "seasonName": "2015/16",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -95938,7 +95938,7 @@
         }
       },
       {
-        "seasonID": "2014/15",
+        "seasonName": "2014/15",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -96088,7 +96088,7 @@
         }
       },
       {
-        "seasonID": "2013/14",
+        "seasonName": "2013/14",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -96238,7 +96238,7 @@
         }
       },
       {
-        "seasonID": "2012/13",
+        "seasonName": "2012/13",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -96388,7 +96388,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -96538,7 +96538,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "8",
@@ -96688,7 +96688,7 @@
         }
       },
       {
-        "seasonID": "2008/09",
+        "seasonName": "2008/09",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -96838,7 +96838,7 @@
         }
       },
       {
-        "seasonID": "2007/08",
+        "seasonName": "2007/08",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -96988,7 +96988,7 @@
         }
       },
       {
-        "seasonID": "2006/07",
+        "seasonName": "2006/07",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -97138,7 +97138,7 @@
         }
       },
       {
-        "seasonID": "2005/06",
+        "seasonName": "2005/06",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -97288,7 +97288,7 @@
         }
       },
       {
-        "seasonID": "2002/03",
+        "seasonName": "2002/03",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -97438,7 +97438,7 @@
         }
       },
       {
-        "seasonID": "2001/02",
+        "seasonName": "2001/02",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -97588,7 +97588,7 @@
         }
       },
       {
-        "seasonID": "2000/01",
+        "seasonName": "2000/01",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -97738,7 +97738,7 @@
         }
       },
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -97888,7 +97888,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -98038,7 +98038,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -98188,7 +98188,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -98338,7 +98338,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "14",
@@ -98488,7 +98488,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "13",
@@ -98638,7 +98638,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "13",
@@ -99998,7 +99998,7 @@
     "clubName": "Wimbledon",
     "seasons": [
       {
-        "seasonID": "1999/00",
+        "seasonName": "1999/00",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
@@ -100148,7 +100148,7 @@
         }
       },
       {
-        "seasonID": "1998/99",
+        "seasonName": "1998/99",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "10",
@@ -100298,7 +100298,7 @@
         }
       },
       {
-        "seasonID": "1997/98",
+        "seasonName": "1997/98",
         "stats": {
           "matchesPlayed": "316",
           "matchesWon": "99",
@@ -100448,7 +100448,7 @@
         }
       },
       {
-        "seasonID": "1996/97",
+        "seasonName": "1996/97",
         "stats": {
           "matchesPlayed": "316",
           "matchesWon": "99",
@@ -100598,7 +100598,7 @@
         }
       },
       {
-        "seasonID": "1995/96",
+        "seasonName": "1995/96",
         "stats": {
           "matchesPlayed": "316",
           "matchesWon": "99",
@@ -100748,7 +100748,7 @@
         }
       },
       {
-        "seasonID": "1994/95",
+        "seasonName": "1994/95",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "15",
@@ -100898,7 +100898,7 @@
         }
       },
       {
-        "seasonID": "1993/94",
+        "seasonName": "1993/94",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "18",
@@ -101048,7 +101048,7 @@
         }
       },
       {
-        "seasonID": "1992/93",
+        "seasonName": "1992/93",
         "stats": {
           "matchesPlayed": "42",
           "matchesWon": "14",
@@ -101203,7 +101203,7 @@
     "clubName": "Wolverhampton-Wanderers",
     "seasons": [
       {
-        "seasonID": "2024/25",
+        "seasonName": "2024/25",
         "stats": {
           "matchesPlayed": "0",
           "matchesWon": "0",
@@ -101353,7 +101353,7 @@
         }
       },
       {
-        "seasonID": "2023/24",
+        "seasonName": "2023/24",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "13",
@@ -101503,7 +101503,7 @@
         }
       },
       {
-        "seasonID": "2022/23",
+        "seasonName": "2022/23",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -101653,7 +101653,7 @@
         }
       },
       {
-        "seasonID": "2021/22",
+        "seasonName": "2021/22",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -101803,7 +101803,7 @@
         }
       },
       {
-        "seasonID": "2020/21",
+        "seasonName": "2020/21",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "12",
@@ -101953,7 +101953,7 @@
         }
       },
       {
-        "seasonID": "2019/20",
+        "seasonName": "2019/20",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "15",
@@ -102103,7 +102103,7 @@
         }
       },
       {
-        "seasonID": "2018/19",
+        "seasonName": "2018/19",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "16",
@@ -102253,7 +102253,7 @@
         }
       },
       {
-        "seasonID": "2011/12",
+        "seasonName": "2011/12",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "5",
@@ -102403,7 +102403,7 @@
         }
       },
       {
-        "seasonID": "2010/11",
+        "seasonName": "2010/11",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "11",
@@ -102553,7 +102553,7 @@
         }
       },
       {
-        "seasonID": "2009/10",
+        "seasonName": "2009/10",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "9",
@@ -102703,7 +102703,7 @@
         }
       },
       {
-        "seasonID": "2003/04",
+        "seasonName": "2003/04",
         "stats": {
           "matchesPlayed": "38",
           "matchesWon": "7",
