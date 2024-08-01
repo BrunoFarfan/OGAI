@@ -30386,7 +30386,1058 @@
   },
   {
     "clubName": "Derby-County",
-    "seasons": []
+    "seasons": [
+      {
+        "seasonName": "1996/97",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "11",
+          "matchesLost": "14",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "45"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.18"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "7"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "58"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.53"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "3"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "62"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "2"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1998/99",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "13",
+          "matchesLost": "12",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "40"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.05"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "12"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "45"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.18"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "85"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "2"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2000/01",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "10",
+          "matchesLost": "16",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "37"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.97"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "13"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "59"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.55"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "3"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "81"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2007/08",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "1",
+          "matchesLost": "29",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "20"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.53"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "376"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "116"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "31%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "7"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "11,753"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "309.29"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "67%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "804"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "22%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "89"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "2.34"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "10"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "898"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "73%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "88"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "510"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "2,042"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "525"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,247"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "13"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "2"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "63"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "1"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "103"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2001/02",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "8",
+          "matchesLost": "24",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "33"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.87"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "7"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "63"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.66"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "1"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "73"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1999/00",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "9",
+          "matchesLost": "18",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "44"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.16"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "11"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "57"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.50"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "2"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "93"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1997/98",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "16",
+          "matchesLost": "15",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "52"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.37"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "13"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "49"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.29"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "2"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "81"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "2"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
   },
   {
     "clubName": "Everton",
@@ -73830,15 +74881,2568 @@
   },
   {
     "clubName": "Reading",
-    "seasons": []
+    "seasons": [
+      {
+        "seasonName": "2006/07",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "16",
+          "matchesLost": "15",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "52"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.37"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "419"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "132"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "32%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "8"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "11,232"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "295.58"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "64%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "1,067"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "24%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "13"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "47"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.24"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "855"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "74%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "74"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "277"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "1,022"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,153"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "3"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "38"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "87"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2012/13",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "6",
+          "matchesLost": "22",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "43"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.13"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "394"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "128"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "32%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "33"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "9"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "11,827"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "311.24"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "70%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "1,009"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "24%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "73"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.92"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "9"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "602"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "73%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "83"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "560"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "1,300"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "361"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,600"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "10"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "45"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "1"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "80"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2007/08",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "10",
+          "matchesLost": "22",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "41"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.08"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "441"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "132"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "30%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "2"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "10"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "10,442"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "274.79"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "64%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "1,087"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "23%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "8"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "66"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.74"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "12"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "800"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "74%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "109"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "452"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "1,783"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "461"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,202"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "2"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "59"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "60"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
   },
   {
     "clubName": "Sheffield-United",
-    "seasons": []
+    "seasons": [
+      {
+        "seasonName": "1992/93",
+        "stats": {
+          "matchesPlayed": "42",
+          "matchesWon": "14",
+          "matchesLost": "18",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "54"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.29"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "11"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "53"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.26"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "2"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "58"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2006/07",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "10",
+          "matchesLost": "20",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "32"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.84"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "483"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "147"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "30%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "2"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "14"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "11,123"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "292.71"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "62%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "800"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "24%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "9"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "55"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.45"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "917"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "77%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "106"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "203"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "1,217"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,357"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "2"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "68"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "2"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "82"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2020/21",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "7",
+          "matchesLost": "29",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "20"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.53"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "323"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "99"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "31%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "36"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "5"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "14,647"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "385.45"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "77%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "666"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "20%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "63"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.66"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "147"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "634"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "56%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "90"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "351"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "796"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "403"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,639"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "3"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "73"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "255"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "73"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2023/24",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "3",
+          "matchesLost": "28",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "35"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.92"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "365"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "129"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "35%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "40"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "7"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "12,218"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "321.53"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "72%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "428"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "25%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "1"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "104"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "2.74"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "170"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "709"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "57%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "105"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "347"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "997"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "451"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,466"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "9"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "7"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "95"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "306"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "64"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2019/20",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "14",
+          "matchesLost": "12",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "39"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.03"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "353"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "114"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "32%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "1"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "60"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "3"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "14,922"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "392.68"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "74%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "866"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "22%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "13"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "39"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.03"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "102"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "611"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "62%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "95"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "420"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "880"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "455"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "3,168"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "8"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "61"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "201"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "78"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1993/94",
+        "stats": {
+          "matchesPlayed": "42",
+          "matchesWon": "8",
+          "matchesLost": "16",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "42"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.00"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "12"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "60"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.43"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "44"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
   },
   {
     "clubName": "Sheffield-Wednesday",
-    "seasons": []
+    "seasons": [
+      {
+        "seasonName": "1992/93",
+        "stats": {
+          "matchesPlayed": "42",
+          "matchesWon": "15",
+          "matchesLost": "13",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "55"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.31"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "9"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "51"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.21"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "29"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "1"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1994/95",
+        "stats": {
+          "matchesPlayed": "42",
+          "matchesWon": "13",
+          "matchesLost": "17",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "49"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.17"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "14"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "57"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.36"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "1"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "53"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1996/97",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "14",
+          "matchesLost": "9",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "50"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.32"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "10"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "51"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.34"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "1"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "49"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1998/99",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "13",
+          "matchesLost": "18",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "41"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.08"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "12"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "42"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.11"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "47"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1999/00",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "8",
+          "matchesLost": "23",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "38"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.00"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "7"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "70"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.84"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "1"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "46"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "1"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1997/98",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "12",
+          "matchesLost": "18",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "52"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.37"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "8"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "67"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.76"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "3"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "65"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1995/96",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "10",
+          "matchesLost": "18",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "48"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.26"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "8"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "61"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.61"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "1"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "31"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "1993/94",
+        "stats": {
+          "matchesPlayed": "42",
+          "matchesWon": "16",
+          "matchesLost": "10",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "76"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.81"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "10"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "54"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.29"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "21"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "2"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
   },
   {
     "clubName": "Southampton",
@@ -95187,7 +98791,1208 @@
   },
   {
     "clubName": "Wigan-Athletic",
-    "seasons": []
+    "seasons": [
+      {
+        "seasonName": "2005/06",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "15",
+          "matchesLost": "17",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "45"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.18"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "0.00"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "0%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "10"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "52"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.37"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "0%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "2"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "56"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "0"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2007/08",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "10",
+          "matchesLost": "18",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "34"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.89"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "489"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "141"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "29%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "11"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "11,684"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "307.47"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "69%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "767"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "26%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "12"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "51"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.34"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "883"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "79%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "126"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "531"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "1,837"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "487"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,612"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "6"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "1"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "59"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "137"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2009/10",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "9",
+          "matchesLost": "20",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "37"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.97"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "555"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "174"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "31%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "1"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "13"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "14,758"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "388.37"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "75%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "681"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "24%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "8"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "79"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "2.08"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "908"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "72%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "154"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "743"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "1,353"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "336"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,861"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "11"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "1"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "65"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "50"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2011/12",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "11",
+          "matchesLost": "17",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "42"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.11"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "519"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "162"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "31%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "29"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "13"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "15,731"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "413.97"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "80%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "744"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "23%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "8"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "62"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.63"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "729"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "73%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "138"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "578"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "925"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "223"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,040"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "10"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "1"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "67"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "71"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2012/13",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "9",
+          "matchesLost": "20",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "47"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.24"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "500"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "170"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "34%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "1"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "43"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "7"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "17,941"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "472.13"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "82%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "813"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "22%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "73"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.92"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "9"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "716"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "78%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "130"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "692"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "901"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "232"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,207"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "17"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "3"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "66"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "2"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "83"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2010/11",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "9",
+          "matchesLost": "14",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "40"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "1.05"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "511"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "170"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "33%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "2"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "40"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "9"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "15,180"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "399.47"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "76%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "620"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "22%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "7"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "61"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.61"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "914"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "71%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "140"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "763"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "1,196"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "320"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,674"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "6"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "0"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "67"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "71"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2008/09",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "12",
+          "matchesLost": "17",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "34"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.89"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "590"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "163"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "28%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "5"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "10"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "12,346"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "324.89"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "72%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "943"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "27%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "13"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "45"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.18"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "6"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "934"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "73%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "140"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "685"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "1,636"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "461"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,848"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "1"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "59"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "4"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "101"
+                }
+              ]
+            }
+          ]
+        }
+      },
+      {
+        "seasonName": "2006/07",
+        "stats": {
+          "matchesPlayed": "38",
+          "matchesWon": "10",
+          "matchesLost": "20",
+          "generalStats": [
+            {
+              "statName": "Attack",
+              "stats": [
+                {
+                  "statName": "Goals",
+                  "statValue": "37"
+                },
+                {
+                  "statName": "Goals per match",
+                  "statValue": "0.97"
+                },
+                {
+                  "statName": "Shots",
+                  "statValue": "474"
+                },
+                {
+                  "statName": "Shots on target",
+                  "statValue": "147"
+                },
+                {
+                  "statName": "Shooting accuracy %",
+                  "statValue": "31%"
+                },
+                {
+                  "statName": "Penalties scored",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Big Chances Created",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Hit woodwork",
+                  "statValue": "9"
+                }
+              ]
+            },
+            {
+              "statName": "Team Play",
+              "stats": [
+                {
+                  "statName": "Passes",
+                  "statValue": "11,353"
+                },
+                {
+                  "statName": "Passes per match",
+                  "statValue": "298.76"
+                },
+                {
+                  "statName": "Pass accuracy %",
+                  "statValue": "62%"
+                },
+                {
+                  "statName": "Crosses",
+                  "statValue": "813"
+                },
+                {
+                  "statName": "Cross accuracy %",
+                  "statValue": "24%"
+                }
+              ]
+            },
+            {
+              "statName": "Defence",
+              "stats": [
+                {
+                  "statName": "Clean sheets",
+                  "statValue": "10"
+                },
+                {
+                  "statName": "Goals Conceded",
+                  "statValue": "59"
+                },
+                {
+                  "statName": "Goals conceded per match",
+                  "statValue": "1.55"
+                },
+                {
+                  "statName": "Saves",
+                  "statValue": "13"
+                },
+                {
+                  "statName": "Tackles",
+                  "statValue": "809"
+                },
+                {
+                  "statName": "Tackle success %",
+                  "statValue": "77%"
+                },
+                {
+                  "statName": "Blocked shots",
+                  "statValue": "112"
+                },
+                {
+                  "statName": "Interceptions",
+                  "statValue": "204"
+                },
+                {
+                  "statName": "Clearances",
+                  "statValue": "1,206"
+                },
+                {
+                  "statName": "Headed Clearance",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Aerial Battles/Duels Won",
+                  "statValue": "2,167"
+                },
+                {
+                  "statName": "Errors leading to goal",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Own goals",
+                  "statValue": "5"
+                }
+              ]
+            },
+            {
+              "statName": "Discipline",
+              "stats": [
+                {
+                  "statName": "Yellow cards",
+                  "statValue": "73"
+                },
+                {
+                  "statName": "Red cards",
+                  "statValue": "3"
+                },
+                {
+                  "statName": "Fouls",
+                  "statValue": "0"
+                },
+                {
+                  "statName": "Offsides",
+                  "statValue": "84"
+                }
+              ]
+            }
+          ]
+        }
+      }
+    ]
   },
   {
     "clubName": "Wimbledon",

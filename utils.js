@@ -1,7 +1,3 @@
-import puppeteer from 'puppeteer';
-import fs from 'fs/promises';
-
-
 const acceptCookies = async (page) => {
     const cookiesSelector = "#onetrust-accept-btn-handler";
     const addSelector = "#advertClose";

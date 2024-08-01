@@ -1,9 +1,7 @@
-import puppeteer from 'puppeteer';
-import fs from 'fs/promises';
 import { loadPage, chunkArray } from './utils.js';
 
 
-const MAX_CONCURRENT_TABS = 5; // Maximum number of tabs to open concurrently
+const MAX_CONCURRENT_TABS = 1; // Maximum number of tabs to open concurrently
 
 const loadAllClubs = async (page) => {
     const clubs = await page.evaluate(async () => {
@@ -54,6 +52,37 @@ export const getClubSeasons = async (page, clubUrl) => {
     console.log(stats);
 
     return stats;
+};
+
+const getSeasonStatsForChunk = async (page, clubs) => {
+    const results = [];
+
+    for (const clubUrl of clubs) {
+        const clubName = clubUrl.split("/")[5];
+        const seasons = await getClubSeasons(page, clubUrl);
+        const seasonsArray = [];
+
+        for (const season of seasons) {
+            const seasonID = season.optionId;
+            const seasonName = season.optionName;
+
+            const clubSeasonStats = await getClubSeasonalStats(page, clubUrl, seasonID);
+
+            seasonsArray.push({
+                seasonName: seasonName,
+                stats: clubSeasonStats,
+            });
+            // Invert the order of the seasons
+            seasonsArray.reverse();
+        }
+
+        results.push({
+            clubName: clubName,
+            seasons: seasonsArray,
+        });
+    }
+
+    return results;
 };
 
 const getClubSeasonalStats = async (page, clubUrl, seasonID) => {
@@ -117,37 +146,11 @@ export const getSeasonalStats = async (browser) => {
     const chunks = chunkArray(clubs, Math.ceil(clubs.length / MAX_CONCURRENT_TABS));
 
     const processChunkInTab = async (chunk) => {
-        const tabPage = await browser.newPage();
-        await tabPage.setViewport({ width: 1920, height: 1080 });
-        const finalArray = [];
-
-        for (let i = 0; i < chunk.length; i++) {
-            const seasons = await getClubSeasons(tabPage, chunk[i]);
-            const clubName = chunk[i].split("/")[5];
-            const seasonsArray = [];
-
-            for (let j = 0; j < seasons.length; j++) {
-                const seasonID = seasons[j].optionId;
-                const seasonName = seasons[j].optionName;
-
-                const clubSeasonStats = await getClubSeasonalStats(tabPage, chunk[i], seasonID);
-
-                seasonsArray.push({
-                    seasonName: seasonName,
-                    stats: clubSeasonStats,
-                });
-                // Invert the order of the seasons
-                seasonsArray.reverse();
-            }
-
-            finalArray.push({
-                clubName: clubName,
-                seasons: seasonsArray,
-            });
-        }
-
-        await tabPage.close();
-        return finalArray;
+        const page = await browser.newPage();
+        await page.setViewport({ width: 1920, height: 1080 });
+        const results = await getSeasonStatsForChunk(page, chunk);
+        await page.close();
+        return results;
     };
 
     const allSeasonalStatsChunks = await Promise.all(chunks.map(chunk => processChunkInTab(chunk)));

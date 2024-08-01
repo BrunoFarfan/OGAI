@@ -13,7 +13,7 @@ const main = async () => {
 
     await getAllMatchesStats(browser);
 
-    // const seasonalDataArray = await getSeasonalStats(page);
+    const seasonalDataArray = await getSeasonalStats(browser);
     // Convert the data array to JSON and write it to a file
     await fs.writeFile("outputs/seasonsOutput.json", JSON.stringify(seasonalDataArray, null, 2));
 

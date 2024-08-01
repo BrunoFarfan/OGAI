@@ -1,4 +1,3 @@
-import puppeteer from 'puppeteer';
 import fs from 'fs/promises';
 import { getClubSeasons } from './seasonScraping.js';
 import { loadPage, chunkArray } from './utils.js';
